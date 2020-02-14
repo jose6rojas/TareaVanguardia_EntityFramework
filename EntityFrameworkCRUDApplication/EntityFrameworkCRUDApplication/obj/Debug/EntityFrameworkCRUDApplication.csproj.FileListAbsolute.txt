@@ -1,0 +1,14 @@
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFrameworkCRUDApplication.exe.config
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFrameworkCRUDApplication.exe
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFrameworkCRUDApplication.pdb
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFramework.dll
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFramework.xml
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.csprojAssemblyReference.cache
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.Form1.resources
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.Properties.Resources.resources
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.csproj.GenerateResource.cache
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.csproj.CopyComplete
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.exe
+C:\Users\Rojas\Source\Repos\EntityFrameworkCRUDApplication\EntityFrameworkCRUDApplication\obj\Debug\EntityFrameworkCRUDApplication.pdb
